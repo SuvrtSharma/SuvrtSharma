@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvrt Sharma</h1>
 <h3 align="center">Currently Exploring the Intersection of Web 3 Development, Web Technologies, and Cybersecurity</h3>
-<img align="right" alt"coding" width="400" src="https://giphy.com/gifs/pixel-art-jeff-gH1jGsCnQBiFHWMFzh/fullscreen">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/pixel-art-jeff-gH1jGsCnQBiFHWMFzh/fullscreen">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvrtsharma&label=Profile%20views&color=0e75b6&style=flat" alt="suvrtsharma" /> </p>
 
