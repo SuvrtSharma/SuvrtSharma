@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvrtsharma&label=Profile%20views&color=0e75b6&style=flat" alt="suvrtsharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvrtsharma" alt="suvrtsharma" /></a> </p>
-
 - 🔭 I’m currently working on **High Court decentralized Evault**
 
 - 🌱 I’m currently learning **Three js**
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **suvrt082003@gmail.com**
 
-- ⚡ Fun fact **In the world of Web 3 and IoT development, you'll find devices that can tweet, coffee machines that brew on your command, and even toasters that can toast messages from the internet! 🍞☕ Explore the magical blend of web and smart devices in our repositories**
+- ⚡ Fun fact **I play games that make me suffer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
