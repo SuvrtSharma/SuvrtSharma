@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvrt Sharma</h1>
 <h3 align="center">Currently Exploring the Intersection of Web 3 Development, Web Technologies, and Cybersecurity</h3>
-<img align="right" alt="coding" width="400" src="git8bit.gif">
+
 
 
 - 🔭 I’m currently working on **High Court decentralized Evault**
