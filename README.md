@@ -16,4 +16,5 @@ I like getting beneath the abstractions, building things from scratch, and askin
 If it moves, computes, flies, or has suspiciously bad performance, there’s a decent chance I’ll want to take it apart.
 
 **Have a look around. Some repos solve problems. Others explain why I haven’t been outside.**
--🔒 **Some repos are private.** You haven’t earned the right to judge my 2 a.m. engineering decisions yet.
+🔒 Some repos are private. I asked AI to review my unfinished projects, fix the bugs, and finish what I’d started. Its first fix was making the repos private: “You showed me. That’s enough people.”
+must want to keep my super engineering decisions to himself.
